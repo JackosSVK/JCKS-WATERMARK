@@ -1,4 +1,4 @@
-JCKS-WATERMARK SCRIPT OPEN SOURCE
+JCKS-WATERMARK SCRIPT
 1. Advanced Config
 2. Easy and Fast to configure
 3. Everything you can change with the config.
